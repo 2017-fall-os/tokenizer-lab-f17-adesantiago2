@@ -2,7 +2,7 @@
 
 The test file shows cases to sufficiently demonstrate the robustness of the tokenizer. It tells you the length of each string of characters and also the number of words on each string. Followed my the return string after is has been tokenize. 
 
-The test cases provide were: 
+The test cases provided were: 
 
 * "Hello my dog's name is Darwin."
 * "     Hello   World!    "
