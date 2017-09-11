@@ -4,10 +4,10 @@ The test file shows cases to sufficiently demonstrate the robustness of the toke
 
 The test cases provide were: 
 
-*"Hello my dog's name is Darwin."
-*"     Hello   World!    "
-*""
-*"          "
-*" HelloWorld"
+* "Hello my dog's name is Darwin."
+* "     Hello   World!    "
+* ""
+* "          "
+* " HelloWorld"
 
 After each case is execute a '$' prompt is show letting you know to type a string to tokenize. 
