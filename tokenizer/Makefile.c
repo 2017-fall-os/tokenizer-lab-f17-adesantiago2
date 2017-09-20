@@ -1,7 +1,7 @@
 
 all: test
 
-CFLAGS = -g -O2
+CFLAGS = -g
 
 test: test.o mytoc.o
 	cc -o test test.o mytoc.o
